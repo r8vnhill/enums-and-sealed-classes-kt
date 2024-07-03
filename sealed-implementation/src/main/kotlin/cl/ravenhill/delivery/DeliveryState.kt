@@ -39,4 +39,3 @@ sealed class DeliveryState {
      */
     open fun isFinalState() = false
 }
-
