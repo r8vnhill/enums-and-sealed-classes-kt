@@ -4,7 +4,8 @@ package cl.ravenhill.delivery
  * Represents the pending state of a delivery.
  *
  * ## Usage:
- * This data object is used to represent the pending state in the delivery state machine, providing a specific implementation of the `signal` method.
+ * This data object is used to represent the pending state in the delivery state machine, providing a specific
+ * implementation of the `signal` method.
  *
  * ### Example 1: Using the Pending State
  * ```

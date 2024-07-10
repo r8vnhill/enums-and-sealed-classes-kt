@@ -1,6 +1,9 @@
 rootProject.name = "enums-and-sealed-classes-kt"
 
-include(":sealed-implementation")
+include(
+    ":sealed-implementation",
+    "string-implementation",
+)
 
 pluginManagement {
     repositories {
